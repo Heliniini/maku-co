@@ -1,8 +1,14 @@
 /* värit */
 body {background-color: #F5E6D6;
-    color: #3B2418;}
+    color: #3B2418;
+}
 main {background-color: #CF9638;
 }
+header {background-color:#3B2418;
+        color: #8A5A2B;
+    }
+footer {background-color: #3B2418;
+        color: #8A5A2B;}
 
 /* fontit */
 h1 {
@@ -10,7 +16,13 @@ h1 {
     font-size: 3 rem;
 }
 
-/* tekstit */
+/* tekstien sijoittelu */
+main {text-align: center;
+}
+header {text-align: right;
+}
+footer {text-align: center;
+}
 
 
 /* marginaalit */
