@@ -20,7 +20,7 @@ body {font-family:Arial, Helvetica, sans-serif;
 }
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3 rem;
+    font-size: 3rem;
 }
 
 /* tekstien sijoittelu */
@@ -35,6 +35,8 @@ nav li {display: inline-block;
 }
 
 /* marginaalit */
+main {margin: 32px
+}
 body {margin: 0
 }
 header {padding: 12px 32px
