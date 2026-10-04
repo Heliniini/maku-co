@@ -1,8 +1,14 @@
 /* värit */
-
+body {background-color: #F5E6D6;
+    color: #3B2418;}
+main {background-color: #CF9638;
+}
 
 /* fontit */
-
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3 rem;
+}
 
 /* tekstit */
 
