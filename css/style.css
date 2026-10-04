@@ -39,6 +39,11 @@ body {margin: 0
 }
 header {padding: 12px 32px
 }
+footer {padding: 16px;
+}
+/* etusivun "katso tuotteet" -linkki"*/
+main a {display: inline-block;
+    }
 
 /* reunusten tyylit tähän alle - tämä kesken */
 
