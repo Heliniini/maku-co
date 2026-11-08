@@ -56,8 +56,10 @@ main a {display: inline-block;
     border: 1px solid #3B2418;
 }
 
-/* kuvat */
+/* kuvat ja video */
 img {width: 100%;
+}
+video {width: 100%;
 }
 
 /* layout */
